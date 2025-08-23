@@ -1,0 +1,10 @@
+pandas
+openpyxl
+langchain
+langgraph
+langchain_community
+ipython
+langchain-openai
+gradio
+jupyterlab
+ipywidgets
