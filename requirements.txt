@@ -8,3 +8,4 @@ langchain-openai
 gradio
 jupyterlab
 ipywidgets
+langgraph_supervisor
